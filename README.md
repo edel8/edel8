@@ -1,16 +1,15 @@
-## Hi there 👋
+# edel8
 
-<!--
-**edel8/edel8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Web & AI Application Developer | مطور تطبيقات ويب وذكاء اصطناعي**
 
-Here are some ideas to get you started:
+I build web applications with React and Next.js, and use Claude API for practical AI features.
+أطوّر تطبيقات ويب باستخدام React وNext.js، وأستخدم Claude API لإضافة ميزات ذكاء اصطناعي عملية.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Selected project | مشروع مختار
+
+### [Edel](https://github.com/edel8/edel)
+A web application built with Next.js, React, and TypeScript.
+تطبيق ويب مبني باستخدام Next.js وReact وTypeScript.
+
+## Technologies | التقنيات
+React · Next.js · TypeScript · Claude API
